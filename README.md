@@ -1,8 +1,9 @@
 # PyQtExamples
+
 The text box and drawing app examples from class. Also now includes some example PRs.
 
-
 ## Running
+
 Clone the repo. 
 
 In the DrawingApp directory you can run:
