@@ -6,14 +6,10 @@ The text box and drawing app examples from class.
 Clone the repo. 
 
 In the DrawingApp directory you can run:
-```
-python3 window.py
-```
+`python3 window.py`
 
 In the TextEdit directory run:
-```
-python3 example.py
-```
+`python3 example.py`
 
 
 
