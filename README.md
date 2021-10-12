@@ -1,5 +1,5 @@
 # PyQtExamples
-The text box and drawing app examples from class.
+The text box and drawing app examples from class. Also now includes some example PRs.
 
 
 ## Running
